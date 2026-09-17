@@ -10,18 +10,18 @@ Gem::Specification.new do |spec|
   spec.version     = Boba::VERSION
   spec.summary     = "Custom Tapioca compilers"
 
-  spec.authors     = ["Angellist"]
-  spec.email       = ["alex.stathis@angellist.com"]
-  spec.homepage    = "https://github.com/angellist/boba"
+  spec.authors     = ["Alexander Stathis"]
+  spec.email       = ["stathis.alexanderj@gmail.com"]
+  spec.homepage    = "https://github.com/stathis-alexander/boba"
   spec.license     = "MIT"
 
   spec.files       = Dir.glob("lib/**/*.rb") + ["README.md", "LICENSE"]
 
   spec.metadata = {
-    "bug_tracker_uri" => "https://github.com/angellist/boba/issues",
-    "changelog_uri" => "https://github.com/angellist/boba/blob/#{Boba::VERSION}/History.md",
+    "bug_tracker_uri" => "https://github.com/stathis-alexander/boba/issues",
+    "changelog_uri" => "https://github.com/stathis-alexander/boba/blob/#{Boba::VERSION}/History.md",
     "homepage_uri" => spec.homepage,
-    "source_code_uri" => "https://github.com/angellist/boba/tree/#{Boba::VERSION}",
+    "source_code_uri" => "https://github.com/stathis-alexander/boba/tree/#{Boba::VERSION}",
     "rubygems_mfa_required" => "true",
   }
 
