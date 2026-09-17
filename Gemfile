@@ -10,10 +10,12 @@ group :development do
   gem "minitest-hooks"
   gem "minitest-reporters"
 
+  gem "actionmcp"
   gem "attr_json"
   gem "draper"
   gem "graphql"
   gem "flag_shih_tzu"
+  gem "friendly_id"
   gem "kaminari-activerecord"
   gem "money-rails"
   gem "noticed", require: false
@@ -21,6 +23,7 @@ group :development do
   gem "paperclip"
   gem "rails", "~> 8"
   gem "shrine"
+  gem "ruby_llm"
   gem "rubocop-rspec"
   gem "rubocop-shopify"
   gem "rubocop-sorbet"

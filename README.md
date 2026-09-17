@@ -1,5 +1,7 @@
 # Boba
 
+> This project has moved from `angellist/boba` to [`stathis-alexander/boba`](https://github.com/stathis-alexander/boba).
+
 > :warning: This software is currently under active development. It should not be considered stable until 1.0.0.
 
 Boba is a collection of compilers for Sorbet & Tapioca.
@@ -8,7 +10,7 @@ Tapioca is very opinionated about what types of compilers or changes are accepte
 
 ### Available Compilers
 
-See [the compilers manual](https://github.com/angellist/boba/blob/main/manual/compilers.md) for a list of available compilers.
+See [the compilers manual](https://github.com/stathis-alexander/boba/blob/main/manual/compilers.md) for a list of available compilers.
 
 ## Usage
 
@@ -82,7 +84,7 @@ We try to stay as up-to-date with Tapioca versions as possible, but can sometime
 
 ## Contributing
 
-Bugs and feature requests are welcome and should be [filed as issues on github](https://github.com/angellist/boba/issues).
+Bugs and feature requests are welcome and should be [filed as issues on github](https://github.com/stathis-alexander/boba/issues).
 
 ### New Compilers
 
